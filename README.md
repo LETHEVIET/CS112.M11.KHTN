@@ -97,7 +97,7 @@ Nội dung
 - Lời giải 1, lời giải 2: Lời giải 1 là lời giải tối ưu mà chúng ta cần kiểm tra về tính đúng đắn và hiệu suất
 Lời giải 2 là lời giải đúng dễ dàng cài đặt không nhất thiết phải nhanh, thường sẽ cài bằng các thuật toán trâu
 
-- Trình so test: Chương trình này có nhiệm vụ duyệt N lần, mỗi lần duyệt thì chạy trình sinh test rồi chạy 2 chương trình lời giải 1 và lời giải 2 so sánh output mà đưa ra kết quả\
+- Trình so test: Chương trình này có nhiệm vụ duyệt N lần, mỗi lần duyệt thì chạy trình sinh test rồi chạy 2 chương trình lời giải 1 và lời giải 2 so sánh output mà đưa ra kết quả
   + Thư mục example sẽ chứa các file ví dụ trong slide 
   + File template.cpp là file template trình chấm
 
