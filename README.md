@@ -34,7 +34,7 @@ Nội dung
   + Random ký tự từ 'a' đến 'z'
   ```c++
   char randomCharacter(){
-      return 'a' + rand() % 25;
+      return 'a' + rand() % 26;
   }
   ```
   + Random chuỗi
